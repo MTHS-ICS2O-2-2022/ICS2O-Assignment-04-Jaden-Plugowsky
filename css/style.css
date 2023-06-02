@@ -11,7 +11,7 @@
 }
 
 body {
-  background-color: lightcoral;
+  background-color: lightseagreen;
 }
 
 a {
@@ -22,9 +22,9 @@ a {
 
 .right-image {
   height: auto;
-  width: 250px;
+  width: auto;
   float: right;
-  margin-right: 150px;
+  margin-right: 40px;
 }
 
 .mdl-content {
@@ -46,6 +46,10 @@ a {
 
 .answer {
   font-size: 20px;
+}
+
+.page-content-description {
+  font-size: 17px;
 }
 
 #button-one {
